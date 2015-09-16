@@ -1,3 +1,5 @@
+Once again, this is a test of Mr. Chipkitbot!
+
 The chipKIT project is based on Arduino which is an open-source physical computing platform based on a simple i/o 
 board and a development environment that implements the Processing/Wiring
 language. The chipKIT project initiated with the pic32 chips from Microchip, and we have support for the MX line. Now we will 
